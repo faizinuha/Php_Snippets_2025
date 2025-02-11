@@ -1,4 +1,4 @@
-## snippets
+## Coders New 2025
 | Snippet       | Output                        |
 |---------------|-------------------------------|
 | `def`         | `define()`                    |

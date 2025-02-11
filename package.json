@@ -1,10 +1,10 @@
 {
     "name": "php-snippets",
-    "displayName": "PHP Snippets VS Code",
-    "description": "https://github.com/heberalmeida/php-snippets",
+    "displayName": "PHP Vscode",
+    "description": "https://github.com/faizinuha/Php_Snippets_2025.git",
     "icon": "images/php.png",
     "version": "0.0.3",
-    "publisher": "heberalmeida",
+    "publisher": "ZakyEvenso12",
     "engines": {
         "vscode": "^1.14.0"
     },

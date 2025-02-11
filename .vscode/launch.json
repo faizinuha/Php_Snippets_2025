@@ -3,6 +3,22 @@
     "version": "0.1.0",
     "configurations": [
         {
+            "name": "Launch built-in server",
+            "type": "php",
+            "request": "launch",
+            "runtimeArgs": [
+                "-S",
+                "localhost:8000",
+                "-t",
+                "."
+            ],
+            "port": 9003,
+            "serverReadyAction": {
+                "action": "openExternally"
+            }
+        },
+        
+        {
             "name": "Launch Extension",
             "type": "extensionHost",
             "request": "launch",
