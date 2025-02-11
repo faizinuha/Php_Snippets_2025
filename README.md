@@ -26,3 +26,7 @@
 | `in`          |`include "";`                  |
 | `req`         |`require "";`                  |
 | `function`    |`function () {}`               |
+
+
+```Inspirasi Snippets```
+[Credit_Inspiratif](https://github.com/heberalmeida/php-snippets.git)
