@@ -1,21 +1,4 @@
 {
-    "name": "php_nav_snippets",
-    "displayName": "PHP Vscode",
-    "description": "https://github.com/faizinuha/Php_Snippets_2025.git",
-    "icon": "images/php.png",
-    "version": "0.0.3",
-    "publisher": "ZakyEvenso12",
-    "engines": {
-        "vscode": "^1.97.1"
-    },
-    "repository": {
-        "type": "git",
-        "url": ""
-    },
-    "keywords": [
-        "PHP",
-        "PHP Snippets"
-    ],
     "categories": [
         "Snippets"
     ],
@@ -30,5 +13,22 @@
                 "path": "./snippets/php.json"
             }
         ]
-    }
+    },
+    "description": "https://github.com/faizinuha/Php_Snippets_2025.git",
+    "displayName": "php",
+    "engines": {
+        "vscode": "^1.97.1"
+    },
+    "icon": "images/php.png",
+    "keywords": [
+        "PHP",
+        "PHP Snippets"
+    ],
+    "name": "php-native",
+    "publisher": "ZakyEvenso12",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "version": "0.0.3"
 }
